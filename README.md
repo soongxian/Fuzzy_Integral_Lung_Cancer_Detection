@@ -1,0 +1,1 @@
+Lung Cancer Detection On CT-Scan Images With Deep Learning Methods: Sugeno Fuzzy Integral Based CNN is my final year project, inspired by COVID-19 detection from lung CT-Scans using a fuzzy integral-based CNN ensemble (Kundu et al., 2021) 
